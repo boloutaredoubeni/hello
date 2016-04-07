@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Printf(stringutil.Reverse("!dlrow olleh\n"))
+	fmt.Printf(stringutil.Reverse("!dlrow olleh"))
 }
